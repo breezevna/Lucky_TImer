@@ -1,9 +1,12 @@
-# Lucky_TImer
+# Lucky TImer - Casino game project 
 Semestral project for Component-based SW Development classes.
-This project is intended to show basic knowledge of OOP and Windows Forms.
-MySQL and Windows Forms were used in the project
-Since a local database was used, you need to change the path to the Database Users.mdf file in the AppConfig to make the project work (E:\YOURFOLDER\LuckyTimer\LuckyTimer\DatabaseUsers.mdf)
-This is a prototype of a casino game. In which you can create an account, all data and money will be saved. The rules are simple, you need to pick up the money before the timer stops. The longer you don't take the money, the bigger the prize. And if you do not have time to pick up before the timer stops, then the money is withdrawn from the account.
+This project is intended to show basic knowledge of *OOP and Windows Forms*.
+*MySQL and Windows Forms* were used in the project.  
+
+Since a local database was used, you need to change the path to the DatabaseUsers.mdf file in the AppConfig to make the project work. Example: E:\YOURFOLDER\LuckyTimer\LuckyTimer\DatabaseUsers.mdf
+
+This is a prototype of a casino game. In which you can create an account, all data and money will be saved.   
+The rules are simple, you need to pick up the money before the timer stops. The longer you don't take the money, the bigger the prize. And if you don't pick up the money before the timer stops, then it is withdrawn from the account.
 
 
 ![image](https://user-images.githubusercontent.com/125823447/219969978-6797906a-7f4a-41d9-92bf-ac73802aafaf.png)
