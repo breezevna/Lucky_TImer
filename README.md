@@ -31,6 +31,7 @@ Lucky Timer features a user-friendly Windows Forms interface, demonstrating the 
 4. Modify the path to the DatabaseUsers.mdf file in the AppConfig to make the project work. Example: AttachDbFilename=E:\YOURFOLDER\LuckyTimer\LuckyTimer\DatabaseUsers.mdf
 5. Build and run the project.
 
+  
 ![image](https://user-images.githubusercontent.com/125823447/219969978-6797906a-7f4a-41d9-92bf-ac73802aafaf.png)
 ![image](https://user-images.githubusercontent.com/125823447/219970001-61a736a1-2529-40f6-8de6-a784da68c8cd.png)
 ![image](https://user-images.githubusercontent.com/125823447/219970018-9eb76688-0499-44f0-945c-082990448040.png)
