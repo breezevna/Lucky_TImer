@@ -1,5 +1,5 @@
 # Lucky_TImer
-\nSemestral project for Component-based SW Development classes.
+Semestral project for Component-based SW Development classes.
 This project is intended to show basic knowledge of OOP and Windows Forms.
 MySQL and Windows Forms were used in the project
 Since a local database was used, you need to change the path to the Database Users.mdf file in the AppConfig to make the project work (E:\YOURFOLDER\LuckyTimer\LuckyTimer\DatabaseUsers.mdf)
